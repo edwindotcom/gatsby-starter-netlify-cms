@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'I''m Editing this from a CMS '
+title: Hi Lapis Team Eng
 image: /img/products-grid3.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
