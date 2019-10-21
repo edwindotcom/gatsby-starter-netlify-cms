@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hi Lapis Team Eng
+title: Hi Kannus Team Eng
 image: /img/products-grid3.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
