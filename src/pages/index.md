@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hi Kannus Team Eng
+title: Hi 8am Demo people
 image: /img/products-grid3.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
